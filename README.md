@@ -2,6 +2,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
+## Walk in video link:
+https://drive.google.com/file/d/1Cg-Dweg9zaYsffaYj6BPAHp1nNU3bWOS/view
+
 ## Tasks
 
 This assigment's task was to modify the strater code to create a Note Taker application that can be used to write notes and save them.
