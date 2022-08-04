@@ -40,17 +40,20 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 Whe you go to localhost:3001/home this is the page you see:
 
 
+![Screenshot (105)](https://user-images.githubusercontent.com/107386198/182779984-541dc231-dcd1-4bc9-b2d1-29c7bfef5292.png)
 
 
 
 
 Click on Get Started and it will take you to:
 
-
-
+![Screenshot (104)](https://user-images.githubusercontent.com/107386198/182779959-0f7d84f9-7b74-4e16-a672-a730b1c38fa4.png)
 
 
 
 
 
 You can add a new note and save it by clicking the save icon:
+![Screenshot (106)](https://user-images.githubusercontent.com/107386198/182780008-4742229d-5cb7-47b4-a54f-f0eafe5a0eed.png)
+
+
